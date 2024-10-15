@@ -7550,6 +7550,8 @@
     rl:
       - '2972505'
   id: 601
+  douyin:
+    - https://live.douyin.com/494140521317
 - name: BuloaSaky
   country: vn
   platforms:
